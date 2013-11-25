@@ -3,15 +3,24 @@ layout: page
 title: About
 disqus: false
 ---
+**柴学梁**
 
-## Create by Mu-An
+**Co-Founder
+@[Cimu Ltd.](http://www.cimu.com.cn)**
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+**Lead Programmer
+@[2K Games China](http://www.2kchina.com/)
+(2009.4 - 2012.4)**
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
 
-This theme is made by me. You have a nice day. ♥
+[XCOM: Enemy Unknown (Vertical Slice PC)](http://www.xcom.com/enemyunknown/)
 
-## Modify by Rei
+[The Misadventures of P.B. Winterbottom (PC)](http://www.winterbottomgame.com/)
 
-http://chloerei.com
+[Bioshock 2 (PC)](http://www.bioshock2game.com/)
+
+[Major LeagueBaseball 2K11 Wii](http://2ksports.com/games/mlb2k11/)
+
+Unannounced iOS Platform Game
+
+[Borderlands Legends(iOS)](https://itunes.apple.com/us/app/borderlands-legends/id558115921?mt=8)
