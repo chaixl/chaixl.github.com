@@ -2,7 +2,7 @@ title:            Chai Xue Liang
 description:      A Game Developer &  Web Developer.
 url:              # Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
-signoff:          Scribble # Your name.
+signoff:          Chai Xue Liang # Your name.
 disqus_shortname: chaixl # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
